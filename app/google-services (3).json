@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1031156747733",
+    "project_id": "seg2505-tutorial3-f2a60",
+    "storage_bucket": "seg2505-tutorial3-f2a60.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031156747733:android:692f8d68b405bbb936815c",
+        "android_client_info": {
+          "package_name": "com.example.firebasetutorialapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGZTHswDDEn-hxqUgrJERMz3QQxYjPpd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031156747733:android:52d16612611815e436815c",
+        "android_client_info": {
+          "package_name": "com.exemple.firebasetutorialapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGZTHswDDEn-hxqUgrJERMz3QQxYjPpd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
